@@ -1,0 +1,187 @@
+% Alba Marina Málaga Sabogal
+% Candidature au poste de maître de conférences n°4730
+% ![LAMA](img/logo-lama.png){height=18%} ${}$ ${}$ ![FSEG](img/logo-fseg.png){height=18%}
+
+## Parcours
+
+**E**nseignement, **R**echerche, **D**éveloppement, **M**édiation
+
+|         |               |           |   |   |   |   |
+|:--------|:--------------|:----------|:-:|:-:|:-:|:-:|
+|2019-2020|ICERM, Brown U.|post-doc    |     |**R**|     |     |
+|2017-2019|Inria          |ing. R&    |     |**R**|**D**|     |
+|2016-2017|U Paris 8      |ATER       |**E**|**R**|     |     |
+|2016     |BlueRidge      |dev        |     |     |**D**|     |
+|2015-2016|U Paris-Sud    |ATER       |**E**|**R**|     |     |
+|2015     |Aix-Marseille U|post-doc   |     |**R**|     |     |
+|2015     |IMAGINARY      |coord. FR  |     |     |     |**M**|
+|2011-2014|U Paris-Sud    |doctorat   |**E**|**R**|**D**|**M**|
+|2009-2011|U Paris-Sud    |master     |     |     |     |     |
+|2008-2011|Polytechnique  |cycle ingé.|     |     |     |     |
+|2008     |UNI (Lima)     |chargée TD |**E**|     |     |     |
+|2004-2006|IMCA (Lima)    |master     |     |     |     |     |
+|2002-2006|UNI (Lima)     |licence    |     |     |     |     |
+
+## Recherche
+
+Dynamique et théorie ergodique sur des surfaces de translation de mesure infinie 
+
+### Surfaces de translation
+
+Le tore: exemple élementaire de surface de translation
+
+![Tore plat, par Pierre Berger CC-BY-NC-SA](img/pierre-berger-tore-1.png){.center #fig:toreplat height=450px}
+
+----------------------------------
+
+![Tore "rond", par Pierre Berger CC-BY-NC-SA](img/pierre-berger-tore-6.png){.center #fig:torerond height=450px}
+
+----------------------------------
+
+En fait, c'est le même espace topologique:
+
+![Transition du tore plat au tore "rond", par Pierre Berger CC-BY-NC-SA](img/pierre-berger-tore-1.png){.center #fig:tore1 height=450px}
+
+----------------------------------
+
+En fait, c'est le même espace topologique:
+
+![Transition du tore plat au tore "rond", par Pierre Berger CC-BY-NC-SA](img/pierre-berger-tore-2.png){.center #fig:tore2 height=450px}
+
+----------------------------------
+
+En fait, c'est le même espace topologique:
+
+![Transition du tore plat au tore "rond", par Pierre Berger CC-BY-NC-SA](img/pierre-berger-tore-3.png){.center #fig:tore3 height=450px}
+
+----------------------------------
+
+En fait, c'est le même espace topologique:
+
+![Transition du tore plat au tore "rond", par Pierre Berger CC-BY-NC-SA](img/pierre-berger-tore-4.png){.center #fig:tore4 height=450px}
+
+----------------------------------
+
+En fait, c'est le même espace topologique:
+
+![Transition du tore plat au tore "rond", par Pierre Berger CC-BY-NC-SA](img/pierre-berger-tore-5.png){.center #fig:tore5 height=450px}
+
+----------------------------------
+
+En fait, c'est le même espace topologique:
+
+![Tore "rond", par Pierre Berger CC-BY-NC-SA](img/pierre-berger-tore-6.png){.center #fig:tore6 height=450px}
+
+----------------------------------
+
+Le point de départ: les billards mathématiques.
+
+![Trajectoire dans un billard rectangulaire, par Antonella Perucca CC0](img/arithmetic-billiard-unfold.jpg){.center #fig:billard height=450px}
+
+----------------------------------
+
+Les billards mathématiques se déplient en surfaces de translation.
+
+![Le billard rectangulaire déplié, par Antonella Perucca CC0](img/arithmetic-billiard-reflection.jpg){.center #fig:unfold height=450px}}
+
+### Exemples de surfaces de translation de genre infini
+
+Dépliages de billards irrationnels
+
+![Surface en escalier](img/loch-ness-with-triangle-billiard.jpg){.center #fig:billiard-loch-ness height=450px}
+
+----------------------------------
+
+Surfaces en escalier
+![](img/25-steps-varying-overlap.png){.center #fig:escalier height=450px}
+
+----------------------------------
+
+Le wind-tree et son dépliage
+
+![](img/tables-exemple-wind-tree-black.png){.center #fig:escalier height=450px}
+
+
+### Résultats
+
+Generiquement, le flot par droites dans de larges classes de surfaces de translation de genre infini (wind-trees, escaliers, $\dots$ ) est:
+
+- conservatif
+- minimal
+- ergodique
+- uniquement ergodique
+
+
+## Enseignements
+
+## Expérience d'enseignement
+
+**>600h** dont 192h responsable de cours
+
+|         |                  |    |    |  
+|:--------|:-----------------|:---|:---|
+|2018-2019|U Paris-Saclay (60h)|info|![Université Paris Saclay](img/logo-upsaclay.png){height=5%}|
+|2016-2017|U Paris 8 (192h)  |info|![Université Paris 8](img/logo-up8.png){height=5%}|
+|2015-2016|U Paris-Sud (192h)|math|![Université Paris Saclay](img/logo-upsaclay.png){height=5%}|
+|2014     |U Paris-Sud (96h) |math|![Université Paris Sud](img/logo-upsud.png){height=5%}|
+|2008     |UNI (192h)        |math|![Universidad Nacional de Ingenieria](img/logo-uni.png){height=5%}|
+
+## Cours, cours intégrés, TD
+
+* Équations différentielles
+* Mathématiques numériques avec Python
+* Calculus
+* Analyse
+* Calcul formel avec SageMath
+* Structures algébriques
+* CMS avec Wordpress
+* Algèbre linéaire
+* Calcul vectoriel
+* Calcul intégral
+* Programmation orientée objet avec Java
+* Introduction à l’informatique
+
+## Facultés d'adaptation
+
+* Programme du lycée très différent du mien
+    * j'ai étudié les programmes (EduScol)
+* Cours de maths numériques sans ordinateurs
+    - Python sur smartphone (console Android)
+* Étudiants d'origines diverses
+    - je peux enseigner en français, anglais, espagnol, polonais
+* ...
+
+## Future adaptation à la FSEG ?
+
+* je connais déjà Python et R
+* j'ai déjà fait de l'apprentissage machine
+* je pourrai apprendre Stata, SAS
+* je m'interesse déjà à l'économie qualitative et quantitative à titre personnel:
+    - parmi mes livres préferés il y en a qui sont écrits par Jean Tirole, Anne Duflo, Joseph  Stiglitz, ...
+* apprendre tout au long de la vie, c'est ma devise 
+    
+
+## Autres activités
+
+![](img/chambre-de-lorentz.jpg){.center #fig:lorentz height=450px}
+![](img/premiere-intimite-de-letre.jpg){.center #fig:intimite height=250px}
+
+----------------------------------
+
+![](img/vieux-port-alba.jpg){.center #fig:vieux-port height=450px}
+![](img/objets-3D-sur-echarpe-rouge.png){.center #fig:objets height=250px}
+
+----------------------------------
+
+![](img/mirror2.jpg){.center #fig:miroir height=450px}
+
+----------------------------------
+
+![](img/Cartoon-Ostrich-With-Head-In-Sand.png){.center #fig:autruche height=450px}
+
+----------------------------------
+
+![](img/water-bird-animal-wildlife-herd-africa-1142657.jpg){.center #fig:autruches height=450px}
+
+## Merci!
+
