@@ -18,6 +18,7 @@
 *.mov
 *.mp4
 *.mpeg4
+movies/*
 # system files
 .DS_Store
 ## Privacy keeping excludes
