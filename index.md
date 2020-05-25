@@ -10,3 +10,8 @@
 
 [Essai du 23 mai 2020](http://albamath.com/Creteil/2020-05-23.html) (à telecharger en [pdf ici](http://albamath.com/Creteil/2020-05-23.pdf))
 
+Essai du 24 mai 2020](http://albamath.com/Creteil/2020-05-24.html) (à telecharger en [pdf ici](http://albamath.com/Creteil/2020-05-24.pdf))
+
+
+Essai du 25 mai 2020](http://albamath.com/Creteil/2020-05-25.html) (à telecharger en [pdf ici](http://albamath.com/Creteil/2020-05-25.pdf))
+
